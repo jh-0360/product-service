@@ -11,6 +11,7 @@ All notable changes to this template will be documented in this file
 - New Design Alignments
 - New spacer & utility classes
 - Remix Icons
+  
 
 ### Updated
 
